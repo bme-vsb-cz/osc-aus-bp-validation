@@ -1,6 +1,3 @@
-# osc-aus-bp-validation
-MATLAB scripts for preprocessing and technical validation of oscillometric blood pressure measurements against auscultatory reference.
-
 # Technical validation of oscillometric blood pressure measurements
 
 This repository contains MATLAB scripts used for data preprocessing and
@@ -62,15 +59,6 @@ records are detected, the user is prompted to manually decide whether to
 remove or correct the record. This design was chosen to preserve clinically
 plausible borderline measurements that cannot be reliably resolved using
 fully automated rules.
-
----
-
-## Citation
-
-If you use these scripts in your work, please cite the associated
-publication:
-
-> Kauzlaričová T. et al., *Title of the article*, Journal, Year.
 
 ---
 
